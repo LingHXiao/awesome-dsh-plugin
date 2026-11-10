@@ -1,0 +1,6 @@
+url: https://github.com/MR-MaoJiu/dsh-image-generator
+name: MR-MaoJiu/dsh-image-generator
+category: vision
+description:
+  en: Generates images from text prompts in chat with a generate_image tool, preferring OpenAI gpt-image-2.6-flare through the OPENAI_API_KEY credential and falling back to the free Pollinations backend, and ships an image-generation skill plus a Codex-style progress card rendered at the target image's aspect ratio so the layout does not jump when the picture appears.
+  zh: 在对话中用 generate_image 工具生成图片，优先通过 OPENAI_API_KEY 凭证调用 OpenAI gpt-image-2.6-flare，无 key 时回退免费的 Pollinations；附带 image-generation 技能，以及按目标宽高比渲染、出图不跳动的 Codex 风格进度卡片。
