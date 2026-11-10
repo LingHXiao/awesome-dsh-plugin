@@ -1,0 +1,6 @@
+url: https://github.com/nikimagic/dsh-local-stt/tree/main/packages/dsh-local-whisper
+name: nikimagic/dsh-local-stt#dsh-local-whisper
+category: voice
+icon: https://raw.githubusercontent.com/nikimagic/dsh-local-stt/main/assets/icon-180.png
+description:
+  en: Local whisper.cpp provider for Russian, English and mixed speech in the DSH Voice Input switcher.
