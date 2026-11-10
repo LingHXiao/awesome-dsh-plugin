@@ -1,0 +1,8 @@
+url: https://github.com/Ai-nice/dsh-pamper/tree/main/plugins/dsh-pamper
+name: Ai-nice/dsh-pamper#dsh-pamper
+category: fun
+description:
+  en: 'Pamper desktop pet for DSH built on a dsh-pet fork: nine character packs, a 宠爱 page for characters, per-pet configuration and an action discovery tab, plus native desktop click, drag and context-menu interactions; it does not require an installed dsh-pet.'
+  zh: '基于 dsh-pet fork 的 DSH 宠爱桌宠：9 个角色包、角色/桌宠配置/发现三个页面，以及桌面点击、拖拽和右键菜单；不依赖已安装的 dsh-pet。'
+
+icon: https://raw.githubusercontent.com/Ai-nice/dsh-pamper/main/assets/icon-512.png
